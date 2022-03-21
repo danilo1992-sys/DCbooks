@@ -1,0 +1,22 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 75px;
+}
+body {
+    background-color: black;
+}
+
+img {
+    border-radius: 5000px;
+    align-self: center;
+    width: 200px    
+}
+
+
+.contacto  {
+    border-radius:0px ;
+    margin-top:75px;
+}
+
